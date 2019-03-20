@@ -1,0 +1,26 @@
+.products {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.product {
+    width: 400px;
+    text-align: center;
+}
+.product .title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.price {
+    margin-top: 20px;
+    color: green;
+    font-size: 40px;
+}
+.buy {
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+}
